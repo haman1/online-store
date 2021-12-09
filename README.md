@@ -26,10 +26,10 @@ An online store for a Music Artist
 
 - Home Page
 - About Page
-- Store Page :
-        - Add to cart
-        - Remove from cart
-        - Make a purchase
+- Store Page 
+- Add to cart
+- Remove from cart
+- Make a purchase
 
 #### Technologies
 
