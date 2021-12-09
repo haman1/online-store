@@ -10,6 +10,7 @@ A website with a functional  Online Store
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
+- [Features](#features)
 - [Technologies](#technologies)
 - [Demo](#demo)
 - [License](#license)
@@ -20,6 +21,14 @@ You're sections headers will be used to reference location of destination.
 ## Description
 
 An online store for a Music Artist
+
+## Features
+
+- Home Page
+- About Page
+- Add to cart
+- Remove from cart
+- Make a purchase
 
 #### Technologies
 
