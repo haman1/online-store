@@ -7,7 +7,6 @@ A website with a functional  Online Store
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [Features](#features)
@@ -35,8 +34,6 @@ An online store for a Music Artist
 
 - HTML&CSS
 - Javascript
-
-[Back To The Top](#online-store)
 
 ---
 
